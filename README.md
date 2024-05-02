@@ -13,5 +13,6 @@ $ rm -rf ~/.config/nvim/.git # Remove the .git folder
 $ nvim # Run neovim and ley lazy to install plugins, then start coding!
 ```
 # Notes
-- I still beginner in doing so
-  I'm looking for a lotta of issues, and it's gonna be my pleasure to build a good just enought configurations for NVIM
+## I still beginner in doing so
+- I'm looking for a lotta of issues, and it's gonna be my pleasure to build a good just enought configurations for NVIM
+- There's nothing perfect :)
