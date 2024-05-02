@@ -1,5 +1,5 @@
 # HORANVIM
-Configurations planning to be just enought and elegant :)
+Configurations planning to be just enough and elegant :)
 
 # Installation
 ## Clone the configs
@@ -13,5 +13,5 @@ $ rm -rf ~/.config/nvim/.git # Remove the .git folder
 $ nvim # Run neovim and ley lazy to install plugins, then start coding!
 ```
 # Notes
-- 1. I still beginner in doing so
-I'm looking for a lotta of issues, and it's gonna be my pleasure to build a good just enought configurations for NVIM
+- I still beginner in doing so
+  I'm looking for a lotta of issues, and it's gonna be my pleasure to build a good just enought configurations for NVIM
