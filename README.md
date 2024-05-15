@@ -1,6 +1,14 @@
 # HORANVIM
 Configurations planning to be just enough and elegant :)
 
+![image](https://github.com/horanmustaplot/horanvim/assets/152083466/03d0e572-03af-4853-b762-649de5ef10f7)
+
+![image](https://github.com/horanmustaplot/horanvim/assets/152083466/4c85bbca-fb30-4239-ad91-bf66ab1b8a82)
+
+![image](https://github.com/horanmustaplot/horanvim/assets/152083466/cf0a04c4-a1da-4bb5-91ad-cfb5d02adbef)
+
+![image](https://github.com/horanmustaplot/horanvim/assets/152083466/f7d9622a-fa54-48d3-ac32-0ffe6739c2a3)
+
 # Installation
 ## Clone the configs
 ``` bash
