@@ -11,3 +11,9 @@ Trying to make them it as good as possible :)
 
 ![image](https://github.com/user-attachments/assets/8100456e-5fc6-4937-a2cf-b81c18e9a34f)
 
+# Installation
+
+```bash
+$ git clone --depth 1 https://github.com/horanmustaplot/xnvim.git ~/.config/nvim 
+```
+Then start neovim :) wait instaling the plugins and here we go... Dive into coding :)
