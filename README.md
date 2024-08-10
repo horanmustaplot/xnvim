@@ -17,3 +17,6 @@ Trying to make them it as good as possible :)
 $ git clone --depth 1 https://github.com/horanmustaplot/xnvim.git ~/.config/nvim 
 ```
 Then start neovim :) wait instaling the plugins and here we go... Dive into coding :)
+
+# News :)
+Fennel fork is comming soon :)
