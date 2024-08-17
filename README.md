@@ -13,7 +13,7 @@ Configurations planning to be just enough and elegant :)
 ## Clone the configs
 ``` bash
 $ mv ~/.config/nvim ~/.config/nvim.bak # backup the previous configurations
-$ git clone git@github.com:horanmustaplot/xnvim.git ~/.config/nvim # Git horanvim configs and put them in the config folder for neovim
+$ git clone -b old-version git@github.com:horanmustaplot/xnvim.git ~/.config/nvim # Git horanvim configs and put them in the config folder for neovim
 $ rm -rf ~/.config/nvim/.git # Remove the .git folder
 ```
 ## Run and code!
